@@ -14,3 +14,4 @@ class policies_enacted:
           print("Change to low or high?")
           weapon_jail = str(input())
           if weapon_jail == "High":
+            print("testest")
